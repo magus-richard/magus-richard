@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm learning about github and git and plan to get up to speed .. fairly quickly :)
+
 <!--
 **magus-richard/magus-richard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
